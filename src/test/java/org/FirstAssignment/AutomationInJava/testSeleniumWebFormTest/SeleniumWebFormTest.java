@@ -7,19 +7,19 @@ import org.testng.annotations.Test;
 
 public class SeleniumWebFormTest extends TestBase {
 
-    WebDriver driver;
-
 
     @Test
-    public void testSeleniumform(){
+    public void testSeleniumForm(){
         //test steps
-        driver = TestBase.setUp();
-        driver.getTitle();
+
+        TestBase testBase = new TestBase();
+        testBase.setUp("firefox");
         System.out.println("Page tittle is:" + driver.getTitle());
         SeleniumWebFormPage seleniumWebFormPage = new SeleniumWebFormPage(driver);
 
         seleniumWebFormPage.getTextBoxValue("welcome to selenium web form");
         seleniumWebFormPage.clickSubmitButton();
+        testBase.driver.getTitle();
         System.out.println("Message:" + seleniumWebFormPage.getMessageText());
     }
 }

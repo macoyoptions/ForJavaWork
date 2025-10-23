@@ -1,0 +1,53 @@
+2025-10-23 09:21:56.690 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\IdeaProjects\NewLearninJava\src\main\resources\Test Suites\SauceDemo.xml"
+2025-10-23 09:21:57.322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\IdeaProjects\NewLearninJava\src\main\resources\Test Suites\SauceDemo.xml
+
+2025-10-23 09:21:58.060 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:21:58.113 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:21:59.004 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:21:59.004 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:21:59.004 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:21:59.146 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:21:59.156 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-10-23 09:22:17.072 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Browser closed successfully.
+2025-10-23 09:22:17.072 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:22:17.080 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:22:17.113 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:22:17.113 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:22:17.121 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:22:17.194 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:22:17.194 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-10-23 09:22:29.583 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Browser closed successfully.
+2025-10-23 09:22:29.583 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:22:29.598 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:22:29.620 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:22:29.620 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:22:29.620 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:22:29.689 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:22:29.689 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-10-23 09:22:54.139 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Browser closed successfully.
+2025-10-23 09:22:54.139 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:22:54.139 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:22:54.155 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:22:54.170 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:22:54.170 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:22:54.229 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:22:54.229 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-10-23 09:23:11.325 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Browser closed successfully.
+2025-10-23 09:23:11.341 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:23:11.356 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:23:11.372 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:23:11.372 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:23:11.372 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:23:11.425 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:23:11.425 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-10-23 09:23:19.586 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - login button clicked
+2025-10-23 09:23:29.785 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Price of backpack is: null
+2025-10-23 09:23:51.951 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Browser closed successfully.
+2025-10-23 09:23:51.967 [main] INFO  org.FirstAssigment.AutomationInJava.TestBase - Setting up the test environment for browser: firefox
+2025-10-23 09:23:51.967 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-10-23 09:23:51.973 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=144 in cache (valid until 10:15:12 23/10/2025 CEST)
+2025-10-23 09:23:51.989 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox144=0.36.0 in cache (valid until 15:40:16 23/10/2025 CEST)
+2025-10-23 09:23:51.989 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+2025-10-23 09:23:52.020 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-10-23 09:23:52.020 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\hp\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe

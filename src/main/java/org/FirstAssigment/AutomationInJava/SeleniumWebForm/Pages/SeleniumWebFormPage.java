@@ -1,9 +1,7 @@
-package org.FirstAssigment.SauceDemoProject.Pages;
+package org.FirstAssigment.AutomationInJava.SeleniumWebForm.Pages;
 
-import io.opentelemetry.api.common.Value;
-import org.FirstAssigment.SauceDemoProject.Mappings.SeleniumWebFormMappings;
+import org.FirstAssigment.AutomationInJava.SeleniumWebForm.Mappings.SeleniumWebFormMappings;
 import org.openqa.selenium.WebDriver;
-import org.FirstAssigment.SauceDemoProject.Mappings.SeleniumWebFormMappings;
 import org.openqa.selenium.support.PageFactory;
 
 public class SeleniumWebFormPage {

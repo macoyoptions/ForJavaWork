@@ -1,7 +1,5 @@
-package org.FirstAssigment.SauceDemoProject.Mappings;
+package org.FirstAssigment.AutomationInJava.SeleniumWebForm.Mappings;
 
-import org.FirstAssigment.SauceDemoProject.TestBase;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -16,7 +14,7 @@ public class SeleniumWebFormMappings{
         PageFactory.initElements(driver, this);
     }
 
-    @FindBy(css = "#my-text-id")
+    @FindBy(id = "my-text-id")
     public WebElement textBox;
 
     @FindBy(css = "body > main > div > form > div > div:nth-child(2) > button")
